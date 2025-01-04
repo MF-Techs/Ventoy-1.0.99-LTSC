@@ -1,0 +1,206 @@
+Thanks For İnstall Ventoy LTSC
+Please Do Not Edit This txt. 
+----------MF-TECHS---------- 
+STRT Local LTSC
+------------------------------------------------------------------------------------------------------------------
+local Vine Ubuntux       ÿÿ  ¸       @                                   ø   º ´	Í!¸LÍ!This program can be run in DOS mode.
+
+$       ØŠœxäDœxäDœxäD• wDžxäDˆ7zàExäDœxåDxäDˆåE•xäDˆäExäDˆçEŸxäDˆíE‰xäDˆDxäDˆæExäDRichœxäD                        PE  L ¤ ­·        à ! Ö   (       Ü      ð     f      
+   
+   
+        0    KË  @A                   å  £   , x     X                     \
+  €=  T                           ð  ¬              (                          .text   ³Õ      Ö                    `.data   è   ð      Ú              @  À.idata  œ
+         Ü              @  @.rsrc   X        ê              @  @.reloc  \
+         ð              @  B                                                                                                                                                                                                                                                                                                                                        Xð f¨ð fPÃ f`Ã fPJ fJ fÀK f`L fàM f0Q f@R fðT f` fÐa f s fPz f t fàx fðv f@x f s fPz f | f ~ fp} f°} fPÃ f`Ã f@ f€ f ƒ f ƒ f „ fà„ fð„ f0… f‡ fà‡ f@ˆ fÀˆ fŠ fðŠ fÀŽ f`à f  f ’ f0° fð­ f ® fp° fPÃ f`Ã fPÃ f`Ã f Æ f Æ fÐÇ f@È f°È fàÉ fpÊ fÐÊ f Ë f€Ë fË f Ë fPÃ f`Ã fpÌ f Æ fÐÇ f@È fpÎ fàÉ fpÊ fÐÊ f Ë f€Ë fË f Ë f Í fÀÌ fÀÍ fÎ f`Î f°Ð fÀÐ fàÐ fàÐ fàÐ fðÐ f Ó fPÃ f`Ã f0Ô f Æ fÐÇ f@È fpÎ fàÉ fpÊ fÐÊ f Ë f€Ë fË f Ë f Í fÀÌ fÀÍ fÎ f`Î f0Õ fÀÐ fàÐ fàÐ fàÐ fðÐ f Ó fpÔ f Õ f@Ö fð× fðØ f    ¬                                                           4ð fà= f   (!f    À fd    u            ´ f                                                                   pI f€I fI f°I f  run       ðÙ f    D   pI   €I   I   °I   PJ   J   ÀK   `L   àM   0Q   @R   ðT   `   Ða    s    t   ðv   @x   àx   Pz    |   p}   °}    ~   @   €    ƒ    ƒ    „   à„   ð„   0…   ‡   à‡   @ˆ   Àˆ   Š   ðŠ   ÀŽ        ’   `“   @˜   `™   ™   àž        0    @    à¬   `­    ­   ð­    ®   0°   p°    °   ð°  PÃ   `Ã    Æ    Æ   ÐÇ   @È   °È   àÉ   pÊ   ÐÊ    Ë   €Ë   Ë    Ë   pÌ   ÀÌ    Í   ÀÍ   Î   `Î   pÎ   °Ð   ÀÐ   àÐ   ðÐ    Ó    Ó   0Ô   pÔ    Õ   0Õ   @Ö   ð×   ðØ   ðÙ    Ü   ß   `à   pã   ðã    ä            TwDs    ::TwDs - Invalid Parameter
+    03  TwDs    ::Execute - No Dde Return Structure
+   LTSC    ::GetPData - HugeGlobalLock Failed
+    LTSC    ::GetPData - GlobalUnLock Failed
+  LTSC    ::GetPDataSize - GlobalSize Container Failed
+  LTSC    ::GetPDataSize - Unknown DG_CONTROL Twunk Message
+LTSC    ::GetPDataSize - Cannot Compute size of TW_CIECOLOR
+       LTSC    ::GetPDataSize - Cannot Compute size of TW_GRAYRESPONSE
+       LTSC    ::GetPDataSize - Cannot Compute size of TW_RGBRESPONSE
+        LTSC    ::GetPDataSize - Cannot Compute size of TW_JPEGCOMPRESSION
+    LTSC    ::GetPDataSize - Unknown DG_IMAGE Twunk Message
+   LTSC    ::GetPDataSize - Unknown DG_ Twunk Message
+    LTSC    ::GetReturnData - HugeAllocAndLock BitMap Failed
+  TwDs    ::GetReturnData - Hmemcpy BitMap Failed
+   lOcal Venyoy    ::GetReturnData - Unlock BitMap Failed
+    TwDs    ::GetReturnData - GlobalLock MemXfer Failed
+   TwDs    ::GetReturnData - Hmemcpy MemXfer Failed
+  TwDs    ::GetReturnData - Unlock MemXfer Failed
+   TwDs    ::GetReturnData - Invalid MemXfer Flags
+   TwDs    ::GetReturnData - GlobalLock Failed
+   TwDs    ::GetReturnData - Unlock Container Failed
+ TwDs    ::GetReturnData - HugeAllocAndLock Container Failed
+   TwDs    ::GetReturnData - Unserviced Twunk Message - Capability
+   TwDs    ::Init - HugeAllocAndLock twunkParams Failed
+  TwDs    ::Init - SetAppAndDs Failed
+   Util    ::UtilGlobalAlloc - GlobalAlloc Failed
+    Util    ::UtilGlobalFree - Invalid Parameter
+  Util    ::UtilGlobalFree - Cannot Free Locked Handle
+  TwDs    ::UtilGlobalFree - GlobalFree Failed
+  Util    ::UtilGlobalUnlock - Invalid Parameter
+        Util    ::UtilGlobalUnlockAndFree - Cannot Free Locked Handle
+ Util    ::UtilHugeGlobalLock - Invalid Parameter
+  Util    ::UtilHugeGlobalLock - GlobalLock Failed
+  Util    ::UtilHmemcpy - Invalid Parameter
+ --          CTWTRACE--NULL to NULL: CTWTRACE--NULL to %s(%ld):  CTWTRACE--%s(%ld) to NULL:  CTWTRACE--%s(%ld) to %s(%ld):   CTWTRACE--  ,   CONTROL %s  IMAGE   [ %04x ]    CAPABILITY  EVENT   IDENTITY    PARENT  PENDINGXFERS    SETUPMEMXFER    SETUPFILEXFER   STATUS  USERINTERFACE   XFERGROUP   IMAGEINFO   IMAGELAYOUT IMAGEMEMXFER    IMAGENATIVEXFER IMAGEFILEXFER   CIECOLOR    GRAYRESPONSE    RGBRESPONSE JPEGCOMPRESSION PALETTE8    GET GETCURRENT  GETDEFAULT  GETFIRST    GETNEXT SET RESET   XFERREADY   CLOSEDSREQ  CHECKSTATUS OPENDSM CLOSEDSM    OPENDS  CLOSEDS USERSELECT  DISABLEDS   ENABLEDS    PROCESSEVENT... ENDXFER COMPRESSION PIXELTYPE   PIXELFLAVOR UNITS   XFERMECH    IMAGEFILEFORMAT BRIGHTNESS  CONTRAST    HIGHLIGHT   SHADOW  XNATIVERESOLUTION   YNATIVERESOLUTION   XRESOLUTION YRESOLUTION XSCALING    YSCALING    FEEDERLOADED    FEEDERENABLED   FEEDPAGE    CLEARPAGE   AUTOFEED    XFERCOUNT   TWAIN_32.DLL    TWAIN.LOG   Import Source Loader    wiadss.dll  z:\$IMPORT$DS$ROOT$ \   %s\%s   *.* .DS CloseFindContext    FindImportDSByDeviceName    GetLoaderStatus FindFirstImportDS   FindNextImportDS    CDataSrc::IDataSrc - Duplicate Product Name Ignored: %s
+   CDataSrc::SendMessage - mismatched calling convention for : %s
+    %s
+    Twunk Startup Complete  Twunk Startup Failed    Twunk Shutdown Complete CTwunk  ::CTwunk - RegisterWindowMessage Failed
+   CTwunk  ::AppInitialize - Reset Log
+   CTwunk  ::AppInitialize - New twDdeCli Failed
+ CTwunk  ::AppInitialize - New TwDs Failed
+ CTwunk  ::DsEntry - We're Not The Calling App
+ CTwunk  ::DsEntry - Dde Setup Incomplete
+  01  02  CTwunk  ::CloseServer - Server Not Executing
+  Twain Twunk_16  CTwunk  ::CloseServer - Why Can't We Find The Thunker Window?
+ CTwunk  ::CloseServer - Posting Close To Thunker
+  CTwunk  ::CloseServer - PostMessage Failed
+        CTwunk  ::CloseServer - Calling Application Window Does Not Exist
+ CTwunk  ::CloseServer - Aborting Thunker Shutdown Process
+ CTwunk  ::CloseServer - Discarded Message %X
+  CTwunk  ::CloseServer - Serviced Message %X
+   CTwunk  ::CloseServer - Received Shutdown Complete From Thunker
+   CTwunk  ::DsmRegisterDS - new dsPtr Failed
+    CTwunk  ::DsmRegisterDS - IDataSrc Failed
+ CTwunk  ::DsmRegisterDS - add Failed
+  CTwunk  ::OpenFileLocks - Already Open
+    Twunk002.MTX    Ctwunk  ::OpenFileLocks - New twainFileLockPtr Failed
+ CTwunk  ::OpenServer - Already Executing
+  Twunk001.MTX    Ctwunk  ::OpenServer - CallingAppFileLock Failed
+  CTwunk  ::OpenServer - Can't Get Windows Directory
+    CTwunk  ::CTwunk - twunkPathAndFile String Limit
+  Twunk_16.exe    CTwunk  ::OpenServer - Starting Thunker
+   CTwunk  ::ThunkerIsNeeded - Can't Get Windows Directory
+   CTwunk  ::ThunkerIsNeeded - Windows Directory is too large for DS search
+      CTwunk  ::ThunkerIsNeeded - Can't add backslash to Windows Directory
+  Twain   CTwunk  ::ThunkerIsNeeded - Can't add TWAIN directory name to Windows Directory
+   \*.ds   \*.*    .   ..  Twain001.Mtx    Cmessngr::CMessenger - New FileLock Failed
+    1   Cmessngr--IMessenger - atol Failed
+    Cmessngr--IMessenger - ltoa Failed
+    %d.%d        (32-   16) 32) ??) Version: %s Protocol: %d.%d     Exception   ReturnHr    LogHr   FailFast    % h s ( % u ) \ % h s ! % p :       % h s ! % p :       ( c a l l e r :   % p )     % h s ( % d )   t i d ( % x )   % 0 8 X   % w s                 M s g : [ % w s ]       C a l l C o n t e x t : [ % h s ]       [ % h s ( % h s ) ] 
+   [ % h s ] 
+     
+   k e r n e l b a s e . d l l     RaiseFailFastException  wil onecore\internal\sdk\inc\wil\opensource\wil\resource.h  _ p 0   WilError_03 n t d l l . d l l   RtlDllShutdownInProgress    RtlDisownModuleHeapAllocation   DSM     --DSM_Entry - Not Initialized
+ DSM     --DSM_Entry - Invalid lpSrc
+   DSM     --DSM_Entry - Nested Call From Source Allowed
+ DSM     ::DSM_Entry - Nested Process Event Ignored
+    DSM     --DSM_Entry - Nested Call Blocked
+ DSM     ::DSM_Entry - Serviced Message %X
+ DSM     ::DSM_Entry - Unserviced Message %X
+   DSM     --DSM_Entry - Nested Call Unblocked
+   DSM     --DsmEntryDiagExit (RC = %X, CC = %X)
+ L o c a l \ S M 0 : % d : % d : % h s       FileLock::FileLock - Get Windows Directory (really, temp dir) Failed
+  FileLock::FileLock - pathAndFile String Limit
+ FileLock::FileLock - Invalid inDirFlag
+    FileLock::FileLock - Invalid inOpenFlag
+   FileLock::Close - _close Failed
+   FileLock::Lock - Already Locked
+   FileLock::Lock - _locking Failed
+  FileLock::LockOrRetry - WARNING
+   FileLock::Open - _sopen Failed
+    FileLock::Read - _read Failed
+ FileLock::Read - Invalid inLockFlag
+   FileLock::Read - Invalid inUnlockFlag
+ FileLock::Remove - _remove Failed
+ FileLock::Seek - _lseek Failed
+    FileLock::Unlock - _locking Failed
+    FileLock::Write - _write Failed
+   FileLock::Write - Invalid inLockFlag
+  FileLock::Write - Invalid inUnlockFlag
+    FILELOCK.TMP    FileLock--FileLockGetShareAllowed - New File Lock Failed
+  FileLock--FileLockGetShareAllowed - File Sharing Disabled
+ FileLock--FileLockGetShareAllowed - Open Test File Failed
+ FileLock--FileLockGetShareAllowed - Lock Test File Failed
+     FileLock--FileLockGetShareAllowed - System Probably Does Not Support File Sharing
+ Global  --GetGlobalStatus - New Failed - NULL
+  Global  --GetGlobalStatus - New Failed - ClassError
+     - ERROR   -     - MESSAGE -    Invalid Name Len    Twunk004.MTX    TwDdeCom::CreateDdeHandle - Win95KludgeFileLock Failed
+    Twunk Win95 Kludge Message      %s%ld   TwDs    ::Execute - DdeCreateDataHandle Failed
+    DdeCom  ::CreateStringHandle - Failed
+ DdeCom  ::FreeStringHandle - Failed
+   DdeCom  ::GetLastError - Failed
+   DdeCom  ::GetLastError - ADVACKTIMEOUT
+    DdeCom  ::GetLastError - BUSY
+ DdeCom  ::GetLastError - DATAACKTIMEOUT
+   DdeCom  ::GetLastError - DLL_NOT_INITIALIZED
+  DdeCom  ::GetLastError - DLL_USAGE
+    DdeCom  ::GetLastError - EXECACKTIMEOUT
+   DdeCom  ::GetLastError - INVALIDPARAMETER
+ DdeCom  ::GetLastError - LOW_MEMORY
+   DdeCom  ::GetLastError - MEMORY_ERROR
+ DdeCom  ::GetLastError - NOTPROCESSED
+ DdeCom  ::GetLastError - NO_CONV_ESTABLISHED
+  DdeCom  ::GetLastError - POKEACKTIMEOUT
+   DdeCom  ::GetLastError - POSTMSG_FAILED
+   DdeCom  ::GetLastError - REENTRANCY
+   DdeCom  ::GetLastError - SERVER_DIED
+  DdeCom  ::GetLastError - SYS_ERROR
+    DdeCom  ::GetLastError - UNADVACKTIMEOUT
+  DdeCom  ::GetLastError - UNFOUND_QUEUE_ID
+ DdeCom  ::GetLastError - UNKWOWN ERROR CODE
+   DdeCom  ::Initialize - Incomplete Parameter List
+  DdeCom  ::Initialilze - Failed
+    DdeCom  ::Uninitialize - Failed
+   DdeCli  ::AsyncClientTransaction - Transaction Already Pending
+        DdeCli  ::AsyncClientTransaction - inLpbData == NULL && Invalid uType
+ DdeCli  ::AsyncClientTransaction - inLpbData != NULL && Invalid uType
+ DdeCli  ::AsyncClientTransaction - Failed
+ DdeCli  ::Connect - Client Already Connected
+  DdeCli  ::Connect - Connect Failed
+    DdeCli  ::Disconnect - Disconnect Failed
+  DdeCli  ::GetLastDdeError - QueryConvInfo:
+    cb               : %ld
+    hUser            : %zd
+    hConvPartner     : %p
+ hszSvcPartner    : %p
+ hszServiceReq    : %p
+ hszTopic         : %p
+ hszItem          : %p
+ wFmt             : %ld
+    wType            : %ld
+    wStatus          : %ld
+    wConvst          : %ld
+    wLastError       : %ld
+    DdeCli  ::CB_XactCompleteHandler - UnlockAndFree Failed
+   TwDs    ::CB_XactCompleteHandler - HugeAllocAndLock Failed
+    DdeCli  ::CB_XactCompleteHandler - Win95KludgeFileLock Failed
+ DdeCli  ::CB_XactCompleteHandler - atol Failed
+        DdeCli  ::CB_XactCompleteHandler - Win95KludgeFileLock Read Failed
+    DdeCli  ::CB_XactCompleteHandler - Invalid Transaction Size
+   DdeCli  --CPP_DdeCliCallBack - No holdDdeCliPtr
+   DdeCli  --CPP_DdeCliCallBack - Unhandled uType
+    Twunk Item Name Twunk Topic Name    Twunk Service Name  TwDdeCli::CB_AdvDataHandler - PostMessage ClosedDsReq Failed
+  TwDdeCli::CB_AdvDataHandler - Received ClosedDsReq
+    TwDdeCli::CB_AdvDataHandler - PostMessage XferReady Failed
+    TwDdeCli::CB_AdvDataHandler - Received XferReady
+  TwDdeCli::CB_AdvDataHandler - Unknown Item
+    TwDdeCli::WaitForAsync... - Discarded Message %X
+  TwDdeCli::WaitForAsync... - Serviced Message %X
+   TwDdeCli::InitAdviseHandling - hszItem's Not Null
+ Twunk Item Close DS Req TwDdeCli::InitAdviseHandling - DdeClientTransaction Failed
+    Twunk Item Xfer Ready   TwDdeCli::UninitAdviseHandling - DdeClientTransaction Failed
+              ¤ ­·       %   (A  (5      ¤ ­·    
+     PA  P5      ¤ ­·       $   àC  à7              pã      ETW0   †ˆ+Š»          FallbackError PartA_PrivTags 
+wilResult ˜hresult fileName lineNumber module failureType message threadId callContext originatingContextId originatingContextName originatingContextMessage currentContextId currentContextName currentContextMessage          * FallbackError PartA_PrivTags 
+wilResult ˜hresult fileName lineNumber module failureType message threadId callContext originatingContextId originatingContextName originatingContextMessage currentContextId currentContextName currentContextMessage failureId failureCount function            DataSourceSession SourceManufacturer SourceProductFamily SourceProductName DestManufacturer DestProductFamily DestProductName TWRC ‡QýDõLíB¨0¯cìà: Microsoft.Windows.Scan.InboxTwainDsm  sPOÏ‰‚G³àÜèÉvº  RSDSl7U(¸
+7z  twain_32.pdb    GCTL   œ  .rdata$brc  œ     .CRT$XCA          .CRT$XCU    °     .CRT$XCZ    ´     .CRT$XIA    ¸     .CRT$XIAA   ¼     .CRT$XIZ    À  ô  .gfids  ´     .giats  À   )  .rdata  à=     .rdata$sxdata   è=     .rdata$zETW0    ø=  â  .rdata$zETW1    Ú@  K   .rdata$zETW2    %A     .rdata$zETW9    (A  è  .rdata$zzzdbg   D  `  .text   pI  €   .text$di    ðI   š  .text$mn    ðã  X   .text$yd    Hä  È   .xdata$x    å  £   .edata   ð  0   .data$brc   0ð      .data   Pð  ˜  .bss       (  .idata$5    (    .00cfg  , d   .idata$2        .idata$3    ¤ (  .idata$4    Ì Ð  .idata$6      °   .rsrc$01    ° ¨  .rsrc$02        l7U(¸è
+Z—IåÖM‘ìè"Üanm¤ ­·            ‹ÿU‹ì‹E(…Àtk‹M‹US‹]W‹} ƒé t*ƒéu(„Òt¶ÊAë¹   ‰‹M‰H‹M‰H‰X‰xëƒ  ‹MV‹p …ötÿp$ÿu$WSQÿu‹ÎRÿuÿuÿ(!fÿÖ^_[]Â$ ‹ÿU‹ìƒì‹MV‹u¶Q‹MÁà‰Eì·‰Eð‹B‰Eô‹BƒÂ
+‰Eø‹Fƒa ‰‹FQÿu· ƒa ÿu‰AÿuÇA   ‰Q·‰A¸%A fÇA   -è= f‰EüEìPÿvÿvÿt!f^ÉÂ ‹ÿU‹ì‹Q‹A#U#EÐt‹A‹Q#E#U;Au	;Qu°ë2À]Â ‹ÿU‹ìì,  ¡4ð f3Å‰EüSVW‰•Øþÿÿ‰Ôþÿÿ‹E‰…Üþÿÿ‹E ‰…àþÿÿ‹E(‰…äþÿÿ‹E0‰…èþÿÿ‹E@ƒeÐ ƒeØ ƒe  ƒe¨ ƒe€ ƒeˆ ƒ¥`ÿÿÿ ƒ¥hÿÿÿ ƒ¥@ÿÿÿ ƒ¥Hÿÿÿ ƒ¥ ÿÿÿ ‰EÌ‹E4‰Eœ‹E,‰…|ÿÿÿ‹E$‰…\ÿÿÿ‹E‹]8‰…<ÿÿÿ‹E‹uD‰…ÿÿÿ‹E‹}<j‹ Z‰…ÿÿÿEì‰UÔ‰U¤‰U„‰•dÿÿÿ‰•Dÿÿÿ‰•$ÿÿÿ3Ò‹MHP‰•(ÿÿÿ‰•ÿÿÿÇ…ÿÿÿ   ‰•ÿÿÿèŽ  EÜ‹ÎPèË  E¼‹ÏPèx  E¬‹ËPèµ  ‹èþÿÿEŒPè¦  ‹äþÿÿ…lÿÿÿPèL  …LÿÿÿP‹àþÿÿè‚  ‹Üþÿÿ…,ÿÿÿPèp  …ìþÿÿPjj j ÿµØþÿÿÿµÔþÿÿè¬ýÿÿ‹Mü_^3Í[è$˜  ÉÂD ‹ÿU‹ìì`  ¡4ð f3Å‰EüSVW‰•¤þÿÿ‰ þÿÿ‹E‰…¨þÿÿ‹E ‰…¬þÿÿ‹E(‰…°þÿÿ‹E0‰…´þÿÿ‹E8‰…¸þÿÿ‹EP‰EÜ‹ELƒeà ƒeè ‰EÌ‹E@ƒeÐ ƒeØ ƒe  ƒe¨ ƒ¥pÿÿÿ ƒ¥xÿÿÿ ƒ¥Pÿÿÿ ƒ¥Xÿÿÿ ƒ¥0ÿÿÿ ƒ¥8ÿÿÿ ƒ¥ÿÿÿ ƒ¥ÿÿÿ ƒ¥ðþÿÿ ‰Eœ‹E4‰…lÿÿÿ‹E,‰…Lÿÿÿ‹E$‰…,ÿÿÿ‹E‹]<‰…ÿÿÿ‹E‹uH‰…ìþÿÿ‹E‹}Dj‹ Z‰…ÜþÿÿEì‰Uä‰UÔ‰U¤‰•tÿÿÿ‰•Tÿÿÿ‰•4ÿÿÿ‰•ÿÿÿ‰•ôþÿÿ3Ò‹MTP‰•øþÿÿ‰•àþÿÿÇ…äþÿÿ   ‰•èþÿÿèò   E¼‹ÎPèŸ   E¬‹ÏPèÜ   EŒP‹Ëè‰   ‹¸þÿÿ…|ÿÿÿPè¿   ‹´þÿÿ…\ÿÿÿPè­   ‹°þÿÿ…<ÿÿÿPèS   ‹¬þÿÿ…ÿÿÿPè‰   ‹¨þÿÿ…üþÿÿPèw   …¼þÿÿPjj j ÿµ¤þÿÿÿµ þÿÿè³ûÿÿ‹Mü_^3Í[è+–  ÉÂP ‹ÿU‹ì‹W3ÿ…Òt‹ÊVqf‹ƒÁf;Çuõ+ÎÑù^M   ëjº”( fY‹E‰x‰x‰‰H_]Â ‹ÿU‹ì‹…Òt‹ÊVqŠA„Àuù+ÎA^ë3Éº¾ fA‹Eƒ` ƒ` ‰‰H]Â ÌÌÌÌÌhðã fè—  YÃÌÌÌÌh ä fè—  YÃÌÌÌÌÇØó fà¬ fÇ´ó f(ð fÇÄó f¨õ fÃÌÇøó f   fÇàó f0  fÇôó f@  fÇÜó f`­ fÇÔó f ­ fÃÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ì‹E3ÒV‹ñ‹MˆVÇ f‰F‰V‰V‰V‰N‰V‰V ‰V$‰V(‰V,‰V0…Àt…ÉuºÀ f¹1 fèÒz  ÆF‹Æ^]Â ÌÌÌÌ‹ÿU‹ìV‹ñè   öEt‹ÎèÃ(  ‹Æ^]Â ‹ÿV‹ñ‹NÇ f…Ét	è¥(  ƒf ^ÃÌÌ‹ÿU‹ìƒìS‹Ù‹M‰]ü·AƒøujXéü   ƒøu‹C‹If‹€Ä   f‰3Àéà   ‹V‰K‹p‹Îÿ(!f‹ËÿÖ„Àu¡tó f3ÛCf‰˜Ä   é¯   W‹{EôPEø3ÛP‹7CSjhè f‹vh‹Îÿ(!f‹ÏÿÖ„Àt@‹EüMôQMøQ‹xSÿp$‹7ÿp‹vh‹Îÿ(!f‹ÏÿÖ„Àt‹Eø…Àuºì f¹1 fè¬y  ¡tó ff‰˜Ä   ë ‹]ü‰C,‹Eô‰C0‹‹p‹Îÿ(!f‹ËÿÖ·Ø‹}ü‹‹q ‹Îÿ(!f‹ÏÿÖ_f‹Ã^[ÉÂ ÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQSV‹ñ3ÀW@‹V‹~f9B‹Rª   uejè´  ‹Ffƒxu\‹@Uü‹X‹Ëèf  „Àuº f¹1 fèüx  2Àë7ÿv‹Uü®   èr  ‹Ëè€  „ÀuºL f¹1 fèÍx  ëÿvèN  °_^[ÉÃÌÌÌÌÌÌÌÌÌ‹ÿV‹ñ‹Nƒy……   ·AHƒø
+wtÿ$…€M fÇF   fƒy…Ê   ‹Aÿpÿ” !f‰F…Àu
+ºx fé½   Fé¥   ÇFœ   é™   ÇF   é   ÇF   é   ÇF  ëxÇFœ  ëoº° fëxƒyum·Aÿþÿÿƒø	wXÿ$…¬M fÇF*   ëDÇF   ë;ÇF&   ë2ÇF   ë)ƒf ë#ºì fë,º0 fë%ºx fëºÀ fëÇF  °^Ãº fëºD f¹1 fèšw  2À^ÃI ƒL fÆL fºL f-M fÆL fÒL fÞL f-M f-M f-M fçL fM fM f$M f-M f6M f<M fCM fJM fQM fXM fÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQQSV‹ñ3ÛWC‹F,‹Vf‹@f‰‚Ä   ‹~,·f;ÃuzjZf9Wui‹N(‹Á9‘ž   u$º  f9‘¢   jZuf9™¤   u
+‹Fƒ` ‹F(9˜ž   u0f9˜¢   u'·€¤   f;Ãtf;Âtfƒøtfƒøu
+‹F‹@ƒ` f‹Ãé™  ‹W…Ò„Ž  ‹F(¹  ƒÇf9ˆ¢   …”   f9˜¤   …‡   EüPEøPèh  „Àu º| f¹1 fè>v  ¡tó fjYf‰ˆÄ   ë—‹F,‹×‹Müÿpè¨  „Àu º¸ f¹1 fè
+v  ¡tó ff‰˜Ä   écÿÿÿ‹}ø‹Ïè  „Àuºì fëÐ‹F‹@‰8éÜ  ‹N»  ·Qf;Ó…±   3ÛCf9˜¤   …ª  ‹I‹×j"è1  ‹F‹X‹Cƒàƒøuÿs‹K"W&é‡  ƒøuj‹C"Uø‹È‰EüèÉ  „Àu&º  f¹1 fè_u  ¡tó f3ÉAf‰ˆÄ   f‹ÁéS  ÿs‹MøW&èÅ  „ÀuºX fëÆ‹MüèÇ  „À…$  ºŒ fë¯ºÀ fë¨3ÛCf;Ó…ý   ·Q‹Âf…ÀtƒøvbƒøtƒútXº˜ f¹1 fèÜt  éÜ   ‹YUü‹Kè   „Àu
+ºô féRÿÿÿÿv‹MüWè8  ‹KèE  „À…¢   º$ fé*ÿÿÿ‹If‹f‰Yf‹Gf‰A‹F,‹PEüPƒÂüS‰Vè€  „Àu#ºX f¹1 fèVt  ¡tó fjYf‰ˆÄ   3À@ëMÿv‹MüWè¿  ‹èÍ  „Àu.º$ f¹1 fèt  ‹
+tó f3À@f‰Ä   ëÿv‹I‹×è†  ‹F,f‹ _^[ÉÃÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿS‹ÙV‹‹p‹Îÿ(!f‹ËÿÖ„Àu2Àéá   ‹SsVC Âª   P‰S$è¿  „ÀuºÜ f¹1 fè•s  ëË‹C‹‰K(ƒx uJÆ ‹C‹K(‹@‰ž   ‹C‹K(f‹@f‰¢   ‹K‹S(f‹If‰Š¤   ‹S(‹K‰Š¦   ƒ{ uN°ë[Æ‹sW‹{(j'‹vƒÇYó¥‹{‹C‹S‹7ÿpBP‹vl‹ÎRÿ(!f‹ÏÿÖ_„À…yÿÿÿº féRÿÿÿ‹‹p‹Îÿ(!f‹ËÿÖ^[ÃÌÌÌÌÌÌÌÌÌÌ‹ÿV‹ñ‹N …Étèž   3À‰F‰F‰F‰F ‰F‰F$‰F,‰F0°^Ã‹ÿV‹ñ…öuºp f¹1 fèŒr  2À^ÃVÿ  !f„Àtº  fëàVÿ¨ !f…ÀtºØ fëÎ°^Ã‹ÿV‹ñ…öuº f¹1 fèHr  2À^ÃVÿ  !f„ÀtVÿ° !f…Àuÿœ !f°^Ã‹ÿV‹ñèºÿÿÿ„ÀtVÿ  !f„Àtº@ f¹1 fèüq  2À^Ã‹ÎèMÿÿÿ„Àtñ°^Ã‹ÿU‹ìRjBÿ¤ !f‹M‰…Àuº< f¹1 fèÃq  ë‹U‹Èè   „Àu2Àë°]Â ‹ÿV‹ò…Éuº€ f¹1 fè‘q  2À^ÃQÿ¬ !f‰…Àuº´ fëÞ°^Ã‹ÿU‹ì…Ét…ÒtÿuRQè&  ƒÄ°ëºè f¹1 fèHq  2À]Â ‹ÿSVW3ÿ»W €‹÷…Òtúÿÿÿv‹ó…öxA‹ò‹Á…Òt€8 t@ƒîuõ‹þ‹Â÷Þö+Çæ©ÿøó÷ßÿ#ø…öxQhœ fQ+×Ïèm   ‹ð_‹Æ^[Â ‹ÿU‹ì‹EV3ö…Àt=ÿÿÿv¾W €…öx5S‹]3öWxÿEPÿuWSÿì!fƒÄ…Àx;Çwuë¾z €Æ _[ë
+…Àt‹MÆ ‹Æ^]Ã‹ÿU‹ì…Òt&‹ESV¾þÿÿ+Á…ötŠ„Ût	ˆANƒêuì^[…ÒuI÷ÚÆ Òâ†ÿø‚z €]Â ÌÌÌÌÌÌÌÌÌÌÌÌ3À@Ã‹ÿU‹ìQV‹5|ó fh  h   ÿ¤ !f…ÀtPÿ¬ !f…Àu3À…Àtƒ` Ç , fÆ@ ë3À‰F^…Àth f‹ÈÆ@ èæ(  ÉÃ‹ÿU‹ìƒìx¡4ð f3Å‰EüS‹|ó f3ÒV‹uW‹}9S„
+  ‹E¹  ‰Eˆf;Áu9S…ô  3À@ë‹Âjl‰CERPè4Ž  ƒÄ…ÿu,…öuQh  fQjlZMèÓþÿÿë]ÿ6FzÆ†›    Ph8 fëÆ‡›    Oz…öuÿ7QhT fEjlPè9þÿÿƒÄë#ÿ6FzÆ†›    Pÿ7EQhp fjlPèþÿÿƒÄ…ÀˆZ  ‹KEPh¨ fèN(  Qh f{¾   Q‹ÖÆ ‹Ïè@þÿÿ‹Ð…Òˆ$  ‹ÏA‰EŒŠA„Àuù+MŒ¸ÿ   f9EtA;Æs‹Æ+ÁPÿuCÁPèþ   ‹Ð…Òˆã   ‹ÏA‰EŒŠA„Àuù+MŒ¸ÿ   f9EtA;Æs‹Æ+ÁPÿuCÁPè1  ‹Ð…Òˆ¢   ‹ÏA‰EŒŠA„Àuù+MŒ¸ÿ   f9EˆtA;Æs‹Æ+ÁPÿuˆCÁPè\  ‹Ð…Òxe‹ÏA‰EŒŠA„Àuù+MŒ¸ÿ   f9Et6A;Æs/Q‹Ö‹Ïè}üÿÿ…Àx3‹ÏQŠA„Àuù+ÊC+ñÁVÿuPèx  ‹Ð…Òx‹KWh¨ fè'  ‹Mü_^3Í[èx‡  ÉÂ ‹ÿU‹ì·MSV‹u‹Á3ÛW‹}ƒèt,ƒètQh´ fVWèqüÿÿ‹Øë'h¬ fh¨ fVWè\üÿÿƒÄëh  fh¨ fVWèFüÿÿƒÄ…ÛxQ‹Ö‹ÏèÌûÿÿ‹Ø_^‹Ã[]Â ‹ÿU‹ì·Mº  ‹ÁVW;ÊwxtoHƒø	‡Ñ   ÿ$…0Y fhÀ f‹u‹}h¨ fVWèêûÿÿƒÄéÅ   hÌ fëßhÔ fëØhà fëÑhè fëÊhø fëÃh fë¼h fëµh  fë®h0 fë§h< fë -  ƒøw[ÿ$…XY fhH fëˆhT fëhd féwÿÿÿht fémÿÿÿh„ fécÿÿÿh féYÿÿÿh  féOÿÿÿh¬ féEÿÿÿh¼ fé;ÿÿÿ‹u‹}Qh´ fVWè$ûÿÿƒÄ…Àx
+Q‹Ö‹Ïèªúÿÿ_^]Â I 9X fXX f_X ffX fmX ftX f{X f‚X f‰X fX f¯X f¶X f½X fÇX fÑX fÛX fåX fïX fùX f‹ÿU‹ì·E¹  V3ö;Á‡¨   „˜   ƒøwNtB‹Èƒét1ƒét"ƒétƒé…ê   hä fé  hØ fé  hÌ féû   hÈ féñ   hð féç   ‹Èƒét4ƒét%éú   tƒé…›   h féÀ   h fé¶   hü fé¬   hø fé¢   h fé˜   ¹  ;ÁwAt8‹Èé  t'ƒétéÿ   tƒéuBhD fëjh< fëch0 fë\h( fëUhL fëN‹Èé  t?ƒét3éÿ   t$é   tPh´ fÿuÿuèƒùÿÿ‹ðë*h€ fëhp fëhd fëhX fh¨ fÿuÿuèUùÿÿƒÄ‹Æ^]Â ‹ÿU‹ì·Mº  V3ö‹Á;Ê‡»   „«   º  ;Êw^tUƒètI-ÿ   t;ƒèt/ƒèt#ƒè…  h´ fh¨ fÿuÿuèëøÿÿé   h¬ fëäh” fëÝhˆ fëÖh˜ fëÏhd fëÈ-  t6ƒèt*ƒètƒèt-ø   …©   hÐ fë ht fë™h€ fë’hŒ fë‹hT fë„hÜ fézÿÿÿ-
+  ƒøwr¶€‹\ fÿ$…_\ fh  féXÿÿÿhÀ féNÿÿÿhè féDÿÿÿhô fé:ÿÿÿhü fé0ÿÿÿh fé&ÿÿÿh$ féÿÿÿh0 féÿÿÿh< féÿÿÿhH féþþÿÿQh´ fÿuÿuèè÷ÿÿ‹ðƒÄ‹Æ^]Â ñ[ fç[ fû[ f\ f\ f\ f#\ fÝ[ f-\ f7\ fA\ f 
+
+
+
+
